@@ -42,7 +42,7 @@
     "isomorphic-ws": "^4.0.1",
     "lru-cache": "^5.1.1",
     "thor-devkit": "^2.0.5",
-    "ws": "^7.1.0"
+    "ws": "^7.5.9"
   },
   "sideEffects": false
 }
